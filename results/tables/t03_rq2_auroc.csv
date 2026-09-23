@@ -1,0 +1,8 @@
+metric,AUROC,separability
+mean_s,0.497,0.503
+max_s,0.492,0.508
+p90_s,0.478,0.522
+C,0.497,0.503
+kappa,1.0,1.0
+C_kappa,1.0,1.0
+GUARD,0.745,0.745

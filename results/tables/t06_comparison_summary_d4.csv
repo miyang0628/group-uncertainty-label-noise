@@ -1,0 +1,8 @@
+score,kind,spearman,auroc_hi_lo
+mean_1mp,baseline,0.13,0.583
+p90_1mp,baseline,0.21,0.622
+mean_ent,baseline,0.177,0.613
+C_full,GUARD,0.131,0.583
+C_proj,GUARD,0.194,0.62
+out_mass,GUARD,0.123,0.579
+Cproj_kappa,GUARD,0.195,0.623

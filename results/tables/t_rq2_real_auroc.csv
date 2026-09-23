@@ -1,0 +1,7 @@
+metric,separability
+mean_s,0.695
+max_s,0.64
+p90_s,0.703
+C,0.695
+kappa,0.634
+C_kappa,0.592
