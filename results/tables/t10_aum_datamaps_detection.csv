@@ -1,0 +1,4 @@
+signal,auroc
+AUM (low=suspicious),0.523
+Data-Maps confidence,0.541
+Data-Maps variability,0.547
